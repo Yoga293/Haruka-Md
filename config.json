@@ -2,14 +2,14 @@
     "ownerNumber": ["+621330882030","+621330882030"],
     "ownerName": "shizu bot",
     "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
+    "botName": "shizu bot ",
     "footer": "WhatsApp Bot",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
-        "prem": 35,
+        "prem": 35, 
         "user": 15
     }
 }
